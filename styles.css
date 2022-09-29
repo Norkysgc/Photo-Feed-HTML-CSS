@@ -1,0 +1,91 @@
+.flexbox{
+    width: 100%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+   background-color: white;
+   margin: auto;
+}
+
+.body {
+    background-color: rgba(211, 201, 201, 0.788);
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+}
+.post{
+    background: white;
+	width: 400px;
+	height: auto;
+	margin: auto;
+    margin-top: 10px;
+}
+
+.img1 {
+    width: 400px;
+}
+
+.colum1 {
+    text-align: right;
+}
+
+
+.header2 {
+    display: flex;
+    justify-content: center;
+}
+.post2{
+    background: white;
+	width: 400px;
+	height: auto;
+	margin: auto;
+}
+
+.img2 {
+    width: 400px;
+}
+
+.colum2 {
+    text-align: right;
+}
+
+.header3 {
+    display: flex;
+    justify-content: center;
+}
+.post3{
+    background: white;
+	width: 400px;
+	height: auto;
+	margin: auto;
+}
+
+.img3 {
+    width: 400px;
+}
+
+.colum3 {
+    text-align: right;
+}
+
+
+.header4 {
+    display: flex;
+    justify-content: center;
+}
+.post4{
+    background: white;
+	width: 400px;
+	height: auto;
+	margin: auto;
+}
+
+.img4 {
+    width: 400px;
+}
+
+.colum4 {
+    text-align: right;
+}
